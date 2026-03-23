@@ -1,0 +1,4 @@
+*.exe
+*.log
+*.json
+__pycache__/
